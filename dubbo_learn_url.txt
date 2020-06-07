@@ -1,0 +1,19 @@
+Dubbo参考资料整理
+
+什么是dubbo		https://www.cnblogs.com/aspirant/p/9002631.html
+Dubbo产生的背景
+Dubbo可以满足的需求
+
+dubbo的特性		https://www.cnblogs.com/aspirant/p/9006670.html
+
+dubbo 架构图 以及调用过程	https://www.cnblogs.com/aspirant/p/9002663.html / https://blog.csdn.net/youlianyiran/article/details/78043469 / https://www.cnblogs.com/barrywxx/p/8528849.html
+
+Dubbo服务集群容错		https://www.cnblogs.com/aspirant/p/9001498.html
+
+Dubbo服务负载均衡
+
+Dubbo服务管理与监控
+
+服务提供者能实现失效踢出是什么原理	https://www.jianshu.com/p/3090d63e9cb3
+
+zookeeper如何实现负载均衡	https://www.cnblogs.com/aspirant/p/8994227.html
