@@ -1,6 +1,6 @@
 Dubbo参考资料整理
 
-什么是dubbo		https://www.cnblogs.com/aspirant/p/9002631.html
+什么是dubbo		https://www.cnblogs.com/aspirant/p/9002631.html / https://blog.csdn.net/congcong68/article/details/41113239
 Dubbo产生的背景
 Dubbo可以满足的需求
 
